@@ -33,3 +33,7 @@ function GotPoses(results){
         console.log(lips_y)
     }
 }
+
+function Take_snapshot(){
+    save("My Image with mustache")
+}
